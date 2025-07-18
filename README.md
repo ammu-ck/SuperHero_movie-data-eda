@@ -2,7 +2,7 @@
 ##### Name: Chanchal Kumar
 ##### GitHub: https://github.com/ammu-ck
 ##### Email: chanchalkumarck@gmail.com
-##### LinkedIn: https://www.linkedin.com/in/chanchalkumar
+##### LinkedIn: https://www.linkedin.com/in/chanchalkr333
 # 🦸 Superhero Movie Dataset Analysis
 
 This project showcases an exploratory data analysis (EDA) on a **Superhero Movie Dataset** sourced from Kaggle. The analysis includes data preparation, cleaning, feature , and insightful visualizations.
