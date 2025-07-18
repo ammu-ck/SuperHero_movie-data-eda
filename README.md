@@ -29,7 +29,7 @@ This project showcases an exploratory data analysis (EDA) on a **Superhero Movie
    - Inspected missing and malformed data
 
 3. **Data Cleaning**
-   - Handled missing values and non-numeric formats like `'48.06M'`, `'NaN M'`
+   - Handled missing values 
    - Removed unnecessary rows and columns
 
 4. **Feature**
