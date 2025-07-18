@@ -69,7 +69,7 @@ Pie chart showing the proportion of movie genres or labels.
 ## 🚀 How to Use
 
 ```bash
-git clone https://github.com/your-username/superhero-movie-analysis.git
+git clone https://github.com/ammu-ck/superhero-movie-analysis.git
 cd superhero-movie-analysis
 jupyter notebook
 pip install pandas matplotlib seaborn
